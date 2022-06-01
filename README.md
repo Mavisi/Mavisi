@@ -3,11 +3,11 @@ Olá! Eu sou Marcos Vinicius! 👋
 
 
 - 🔭 Atualmente sou um desenvolvedor Full-Stack com foco em Java.
-- 🌱 Atualmente estudando Flutter, SpringBoot e Laravel.
+- 🌱 Atualmente estudando Java e SpringBoot.
 
 <div align="center">
   <a href="https://github.com/Mavisi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveiraluizz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mavisi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavisi&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
