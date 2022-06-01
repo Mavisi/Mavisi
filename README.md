@@ -4,7 +4,7 @@ Olá! Eu sou Marcos Vinicius! 👋
 
 - 🔭 Atualmente sou um desenvolvedor Full-Stack com foco em Java.
 - 🌱 Atualmente estudando Java e SpringBoot.
-
+ <div>
 <div align="center">
   <a href="https://github.com/Mavisi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mavisi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,7 +19,7 @@ Olá! Eu sou Marcos Vinicius! 👋
   <img align="center" alt="Marcos-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg">
   <img align="right" alt="Marcos-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/akashi-anime-wink-gif-7557263.gif">
 </div>
- 
+  </div>
  
    ##
  
