@@ -2,8 +2,8 @@ Olá! Eu sou Marcos Vinicius! 👋
 
 
 
-- 🔭 Atualmente sou um desenvolvedor Full-Stack com foco em Java.
-- 🌱 Atualmente estudando Java e SpringBoot.
+- 🔭 Atualmente sou um desenvolvedor Front-End.
+- 🌱 Atualmente estudando JavaScript, Css e HMTL.
  <div>
 <div align="center">
   <a href="https://github.com/Mavisi">
