@@ -17,7 +17,6 @@ Olá! Eu sou Marcos Vinicius! 👋
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcos-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg">
-  <img align="right" alt="Marcos-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/akashi-anime-wink-gif-7557263.gif">
 </div>
   </div>
  
