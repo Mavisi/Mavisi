@@ -18,10 +18,3 @@ Olá! Eu sou Marcos Vinicius! 👋
    
 </div>
   
-  ##
-
-<br clear="both">
-
-
-
-###
